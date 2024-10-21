@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nor/Downloads/BlackSwan_zadanie/NER/Sotrender_zadanie/experiments/mlruns/1/b55634ed793442f68d363e6204b2a33c/artifacts
+end_time: 1628244311570
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: b55634ed793442f68d363e6204b2a33c
+run_uuid: b55634ed793442f68d363e6204b2a33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1628244308962
+status: 3
+tags: []
+user_id: nor

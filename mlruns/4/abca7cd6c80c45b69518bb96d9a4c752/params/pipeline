@@ -1,0 +1,1 @@
+[('scaler', StandardScaler()), ('model', LinearSVC(C=0.1))]

@@ -1,0 +1,4 @@
+artifact_location: file:///home/nor/Downloads/BlackSwan_zadanie/NER/Sotrender_zadanie/HateSpeechDetection/mlruns/4
+experiment_id: '4'
+lifecycle_stage: active
+name: text_encodind_with_bert_based_models_on_augmented_aata

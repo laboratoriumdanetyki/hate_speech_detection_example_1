@@ -1,0 +1,4 @@
+artifact_location: file:///home/nor/Downloads/BlackSwan_zadanie/NER/Sotrender_zadanie/HateSpeechDetection/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: classic_ML_on_augmented_data

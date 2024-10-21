@@ -1,0 +1,4 @@
+artifact_location: file:///home/nor/Downloads/BlackSwan_zadanie/NER/Sotrender_zadanie/experiments/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: text_encodind_with_bert_based_models

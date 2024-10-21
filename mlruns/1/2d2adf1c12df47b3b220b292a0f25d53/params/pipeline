@@ -1,0 +1,1 @@
+[('vectorizer', CountVectorizer()), ('dim_reduction', TruncatedSVD(n_components=100)), ('distribution_normalization', 'passthrough'), ('scaler', 'passthrough'), ('model', LinearSVC(C=0.01))]

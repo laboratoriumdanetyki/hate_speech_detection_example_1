@@ -1,0 +1,1 @@
+[('vectorizer', TfidfVectorizer()), ('dim_reduction', TruncatedSVD(n_components=250)), ('distribution_normalization', PowerTransformer()), ('scaler', StandardScaler()), ('model', LinearSVC(C=1))]

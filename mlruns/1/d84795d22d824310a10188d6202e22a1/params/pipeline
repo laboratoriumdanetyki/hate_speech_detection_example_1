@@ -1,0 +1,1 @@
+[('vectorizer', CountVectorizer(max_df=0.1, min_df=5)), ('model', LinearSVC(C=0.01, class_weight={0: 1, 1: 5, 2: 20}))]

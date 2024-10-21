@@ -1,0 +1,1 @@
+[('scaler', StandardScaler()), ('model', MLPClassifier(hidden_layer_sizes=128))]

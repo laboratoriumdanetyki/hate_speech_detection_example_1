@@ -1,0 +1,1 @@
+[('vectorizer', CountVectorizer(max_df=0.05, min_df=5, token_pattern='(?u)\\b\\w+\\b')), ('model', MultinomialNB())]

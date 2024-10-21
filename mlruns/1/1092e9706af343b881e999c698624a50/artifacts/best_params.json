@@ -1,0 +1,1 @@
+{"vectorizer": "CountVectorizer(min_df=5, token_pattern='(?u)\\\\b\\\\w+\\\\b')", "vectorizer__max_df": "1.0", "vectorizer__min_df": "5", "vectorizer__stop_words": "None", "vectorizer__token_pattern": "(?u)\\b\\w+\\b"}
